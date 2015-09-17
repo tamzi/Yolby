@@ -22,3 +22,6 @@ Style Sheets
 2. Go to: [GOOGLE FONTS](https://www.google.com/fonts#)
  - Choose the one that you like. Add the link directly to your project.
 3. Once obtained, add the font family on your css file
+
+**b.Materialize components**
+Choose color scheme from getmdl.io website by clicking on this link to edit the default css file.
