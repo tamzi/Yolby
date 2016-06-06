@@ -1,3 +1,9 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+
+
+
+![npm](https://img.shields.io/badge/Yolby-version--1-brightgreen.svg?style=flat-square)
+
 # Yolby
   **Yolby** is a barebones boilerplate for web development.
   **Yolby** helps developers to stay productive by focussing on adding content and building their apps.
@@ -21,11 +27,7 @@
 
 ```
 To customise the font style used i.e.
-**link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'**
-```
-
-```
-
+link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'
 
 a. Go to [google fonts](https://www.google.com/fonts#)
 
@@ -35,3 +37,9 @@ c. Add the link directly to your project.
 
 d. Once obtained, add the font family on your css file
 ```
+
+
+
+
+
+[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://github.com/tamzi/Yolby/blob/master/LICENSE)
