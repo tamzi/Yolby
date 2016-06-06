@@ -1,8 +1,9 @@
 # Yolby
-  **Yolby** is a barebones boilerplate for web development. **Yolby** helps developers to stay productive by focussing on adding content and buildoing their apps.
+  **Yolby** is a barebones boilerplate for web development.
+  **Yolby** helps developers to stay productive by focussing on adding content and building their apps.
   Already linked with Bootstrap, Materialize and Modernizer, you have the option of editing these and choose what you like.
 
- **Yolby** aims to act as a solid starting point for both professionals and newcomers to the industry.
+ **Yolby** aims to act as a solid starting point for both professionals and newcomers to web development.
 
  #### Yolby Project Contents:
 
@@ -14,14 +15,15 @@
   - **licence.md**
 
 
-DIRECTION
-Style Sheets
+#### DIRECTION
 
 **a. Fonts**
-1. To customise this style sheet that i have linked: link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'
-2. Go to: [GOOGLE FONTS](https://www.google.com/fonts#)
+To customise font style used: 
+
+```
+link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'
+```
+a. Go to: [google fonts](https://www.google.com/fonts#)
  - Choose the one that you like. Add the link directly to your project.
 3. Once obtained, add the font family on your css file
 
-**b.Materialize components**
-Choose color scheme from getmdl.io website by clicking on this link to edit the default css file.
