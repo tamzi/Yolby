@@ -15,15 +15,23 @@
   - **licence.md**
 
 
-#### DIRECTION
+> #### Using Yolby
 
 **a. Fonts**
-To customise font style used: 
+
+```
+To customise the font style used i.e.
 
 ```
 link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'
 ```
-a. Go to: [google fonts](https://www.google.com/fonts#)
- - Choose the one that you like. Add the link directly to your project.
-3. Once obtained, add the font family on your css file
 
+
+a. Go to [google fonts](https://www.google.com/fonts#)
+
+b. Choose the font that you like. 
+
+c. Add the link directly to your project.
+
+d. Once obtained, add the font family on your css file
+```
