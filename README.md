@@ -1,7 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 
-
 ![npm](https://img.shields.io/badge/Yolby-version--1-brightgreen.svg?style=flat-square)
 
 # Yolby
@@ -38,7 +37,22 @@ c. Add the link directly to your project.
 d. Once obtained, add the font family on your css file
 ```
 
+**b. Meta Tags at the head**
 
+```
+To customise the meta tags used:
+
+a. Replace the various texts at the top.
+
+b. Design an image and place it at the img folder
+
+```
+
+**c. You can add the various badges from here:  
+
+[shieldsIO](https://shields.io/)
+
+And read about adding badges from here: [Adding badges from Shields.io](https://github.com/badges/shields/blob/master/doc/TUTORIAL.md)
 
 
 
