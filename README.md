@@ -54,6 +54,7 @@ b. Design an image and place it at the img folder
 
 And read about adding badges from here: [Adding badges from Shields.io](https://github.com/badges/shields/blob/master/doc/TUTORIAL.md)
 
-
+####TODO:
+1. Add custom fonts
 
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://github.com/tamzi/Yolby/blob/master/LICENSE)
